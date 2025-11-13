@@ -1,37 +1,45 @@
-# Mastering DSA
+# Data Structures & Algorithms
 
-## Why Learning Data Structures & Algorithms Changes Everything
+A comprehensive collection of data structures and algorithms implementations in Go, developed as part of my computer science fundamentals study.
 
-If you’ve ever wondered why your code runs slow or why job interviews focus so much on algorithms — here’s the truth: understanding Data Structures & Algorithms (DSA) separates coders from real engineers.
+## Overview
 
-**⚙️ 1. DSA Makes You Think Efficiently**
+This repository contains implementations and study notes covering essential data structures and algorithms concepts. Each module includes code examples, visual references, and practical applications.
 
-Writing code is easy. Writing efficient code is an art.
+## Contents
 
-When you understand arrays, linked lists, stacks, queues, trees, and graphs — you start solving problems faster, with less code and better performance.
+### Algorithms
 
-**🧠 2. You’ll Master Problem-Solving**
+- **Recursion** - Recursive problem-solving techniques
+- **Sorting** - Bubble Sort, Insertion Sort, Merge Sort, Quick Sort, Selection Sort
+- **Searching** - Binary Search, Breadth-First Search (BFS), Depth-First Search (DFS)
+- **Dynamic Programming** - Optimization through memoization and tabulation
 
-DSA teaches you how to think like a computer.
+### Data Structures
 
-You’ll learn how to analyze time and space complexity, choose the right approach, and build scalable systems — whether you’re coding in Python, C++, or JavaScript.
+- **Arrays** - Linear data structure fundamentals
+- **Hash Tables** - Key-value pair storage and retrieval
+- **Linked Lists** - Singly and doubly linked implementations
+- **Stacks & Queues** - LIFO and FIFO data structures
+- **Trees** - Binary Trees, Priority Queues (Heaps)
+- **Graphs** - Graph representation and traversal
 
-**🚀 3. It Boosts Your Career Opportunities**
+## Implementation
 
-Top companies (Google, Microsoft, Meta) test DSA because it reveals your logic and reasoning.
+All implementations are written in Go, focusing on:
+- Clean, readable code
+- Well-documented functions
+- Practical examples
+- Performance considerations
 
-If you can solve algorithmic problems, you can handle real-world engineering challenges.
+## Purpose
 
-**💡 4. It Makes Every Framework Easier**
+This repository serves as both a learning resource and reference material for fundamental computer science concepts. The implementations demonstrate core principles applicable across different programming languages and domains.
 
-Once you understand the logic behind sorting, searching, and recursion — frameworks like React, Django, or Node.js become easier to learn and optimize.
+## Resources
 
-**💬 Final Thought**
+Additional learning materials, diagrams, and reference documents are included in respective directories.
 
-Frameworks fade. Languages evolve.
+---
 
-But problem-solving never goes out of style.
-
-Master DSA, and you’ll never feel stuck — no matter what tech trend comes next.
-
-> _Think deeper. Code smarter._
+*Mastering fundamentals to build scalable systems.*
